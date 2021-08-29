@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17950" start="node1" appversion="6.1.6">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="2048" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-0.413518" projection="4" pan="-1.21167" fov="53.4822"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata comment="" description="" longitude="" title="Lobby" datetime="" customnodeid="" copyright="" heading="0" info="" latitude="" source="" author="" nodeid="node1" tags="Lobby 1"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" wordwrap="1" enabled="1" width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot tilt="-13.73" id="Point01" description="" distance3D="182.881" customimagewidth="32" title="Registration" pan="-0.07" customimageheight="32" use3D="0" url="{node2}" skinid="ht_node" fov="10" customimage="media/Arrow.png" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" zoomfov="20" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" invertcontrol="1" lockedwheel="0" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedkeyboard="0" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="2048" height="2048" levelingroll="0">
+      <level predecode="0" preload="0" width="2048" height="2048"/>
+      <level predecode="0" preload="0" width="1024" height="1024"/>
+      <level predecode="0" preload="0" width="512" height="512"/>
+      <level predecode="1" preload="1" width="256" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0.481056" projection="4" pan="-0.437838" fov="32.0752"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata comment="" description="" longitude="" title="Registration" datetime="" customnodeid="" copyright="" heading="0" info="" latitude="" source="" author="" nodeid="node2" tags="Lobby 2"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" textalpha="1" wordwrap="1" enabled="1" width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot tilt="-2.74" id="Point01" description="Roche (Philippines), Inc. &#xa;Unit 801, 8th Floor, The Finance Centre, 26th Street corner 9th Avenue &#xa;Bonifacio Global City, Fort Bonifacio, Taguig City &#xa;You may contact us at: +632 7718-7777 " distance3D="182.881" customimagewidth="32" title="Information" pan="-348.16" customimageheight="32" use3D="0" url="" skinid="ht_info" fov="10" customimage="media/Circle.png" target=""/>
+      <hotspot tilt="-2.47" id="Point03" description="" distance3D="182.881" customimagewidth="32" title="Register Here" pan="-15.42" customimageheight="32" use3D="0" url="" skinid="ht_url" fov="10" customimage="media/Circle.png" target="_blank"/>
+      <hotspot tilt="-14.95" id="Point02" description="" distance3D="182.881" customimagewidth="32" title="" pan="-180.49" customimageheight="32" use3D="0" url="{node1}" skinid="ht_node" fov="10" customimage="media/Arrow.png" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" zoomfov="20" zoomin="0" softedge="0" zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertwheel="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="8" invertcontrol="1" lockedwheel="0" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" lockedkeyboard="0" speedwheel="1" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" description="" longitude="" title="" datetime="" customnodeid="" copyright="" heading="0" info="" latitude="" source="" author="" nodeid="master" tags=""/>
+  </masternode>
+</tour>
